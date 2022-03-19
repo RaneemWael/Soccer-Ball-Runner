@@ -16,7 +16,7 @@ The game ends when the player hits one of the obstacles that causes instant deat
   - Import into Unity Hub and run through Unity.
 
 2. Android
-  - Download .apk to your android phone and play!.
+  - Download .apk to your android phone and play!
 
 3. Windows
   - Download windows build to your computer.
