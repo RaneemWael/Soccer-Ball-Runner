@@ -10,11 +10,14 @@ The player encounters Collectibles: that can be found along the road and collect
 The game ends when the player hits one of the obstacles that causes instant death or when the score reaches zero.
 
 ## How to run:
-1.
+
+1. Unity
   - Download the project files to your computer.
   - Import into Unity Hub and run through Unity.
-2.
+
+2. Android
   - Download .apk to your android phone and play!.
-3.
+
+3. Windows
   - Download windows build to your computer.
   - Run .exe file and play!
