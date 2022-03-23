@@ -1,4 +1,4 @@
-# Sphere-Runner
+# Soccer-Ball-Runner
 An infinite runner game designed in Unity and coded in C#.
 
 ## Description:
