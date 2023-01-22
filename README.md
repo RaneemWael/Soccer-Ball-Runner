@@ -21,6 +21,7 @@ The game ends when the player hits one of the obstacles that causes instant deat
    - Download .apk to your android phone, install it and play!
 
 3. Windows:
+   - https://drive.google.com/file/d/1hkkC_1NJW7F-J86ppuPXP5LlDZE6HFzr/view?usp=drivesdk
    - Download game setup .exe file to your computer.
    - Install it and play!
 
