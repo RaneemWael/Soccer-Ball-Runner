@@ -18,11 +18,11 @@ The game ends when the player hits one of the obstacles that causes instant deat
    - Import into Unity Hub and run through Unity.
 
 2. Android:
-   - Download .apk to your android phone and play!
+   - Download .apk to your android phone, install it and play!
 
 3. Windows:
-   - Download windows build to your computer.
-   - Run .exe file and play!
+   - Download game setup .exe file to your computer.
+   - Install it and play!
 
 4. Online:
    - Find it as this link: https://raneemwael.itch.io/soccer-ball-runner
